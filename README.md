@@ -20,7 +20,7 @@
 </ul>
 
 <h2>Opa! Achei interessante, eu posso contribuir?</h2>
-<p>A ideia da NivSoft é justamente contar com a sua colaboração, toda ajuda é bem vinda, e quanto mais ajudar tivermos mais rápido a aplicação ficará "usável"</p>
+<p>A ideia da NivSoft é justamente contar com a sua colaboração, toda ajuda é bem vinda, e quanto mais ajuda tivermos mais rápido a aplicação ficará "usável"</p>
 
 <h2>Motivação social</h2>
 <p>O NivSoft-Control abre uma gama de oportunidades, não só para as empresas, como também para profissionais de todas as áreas empresariais como consultores, autônomos, especialistas do sistema relacionados à sua área de conhecimento como financeiro, contas à pagar, contras à receber, pedido de compras, e várias outras funções que outros ERPs acolhem.</p>
