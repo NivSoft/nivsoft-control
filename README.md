@@ -31,14 +31,15 @@
   <li>Linguagens</li>
   <ul>
     <li>Java 8</li>
-    <li>jQuery(JS)</li>
+    <li>JavaScript</li>
   </ul>
   <li>Frameworks | outros</li>
   <ul>
-    <li>SpringMVC</li>
+    <li>Spring-boot</li>
     <li>Hibernate(JPA)</li>
     <li>Bootstrap</li>
     <li>Rest-WS</li>
+    <li>jQuery(JS)</li>
   </ul>
   <li>Servidor WildFly8</li>
   <li>MySql</li>
